@@ -48,18 +48,8 @@ Currently, I'm evolving my stack to build **AI-Augmented Applications**. I don't
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=majomakendev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="majomakendev's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majomakendev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### ✍️ Latest from my Blog / Labs
 
-<!-- Aquí puedes usar una GitHub Action para traer tus posts automáticamente, o actualizarlos manualmente -->
 - 🚧 *Building reliable APIs with Claude Integration* (Coming Soon)
 - 🚧 *My journey from Full-Stack to AI Engineer* (Coming Soon)
 - 🚧 *Why I chose n8n over Make for developer-centric automation* (Coming Soon)
